@@ -9,7 +9,7 @@ This is a space to manage and track incidents around [www.foo.software](www.foo.
 
 - **[General discussion](https://github.com/foo-software/discussion/issues)**: Anything goes here. Not sure where to discuss a topic? this is the place.
 - **[Bugs](https://github.com/foo-software/bugs/issues)**: Did you discover a bug? Open an issue here or review existing ones.
-- **[Features](https://github.com/foo-software/features/issues)**: Have an idea that would really help your workflow? It doesn't hurt to put in a request. We open any ideas, even half-baked.
+- **[Features](https://github.com/foo-software/features/issues)**: Have an idea that would really help your workflow? It doesn't hurt to put in a request. We're open to any ideas, even half-baked.
 
 ## Credits
 

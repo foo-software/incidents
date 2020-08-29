@@ -1,6 +1,6 @@
-*Date Opened*: MM/DD/YYY
-*Date Closed*: MM/DD/YYY
----
+* Date Opened: MM/DD/YYYY
+* Date Closed: MM/DD/YYYY
+
 # Summary
 
 Summarize the incident.

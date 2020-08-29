@@ -1,6 +1,13 @@
+*Date Opened*: MM/DD/YYY
+*Date Closed*: MM/DD/YYY
+---
 # Summary
 
 Summarize the incident.
+
+#### Related Issues
+
+List any related issues here.
 
 # Status
 
